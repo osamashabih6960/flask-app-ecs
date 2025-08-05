@@ -1,2 +1,3 @@
 # flask-app-ecs
-ECS
+Simple flask app to be run on ECS
+
